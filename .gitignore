@@ -39,3 +39,6 @@ target/
 */*.iml
 *.iml
 
+# remove git
+.git
+
